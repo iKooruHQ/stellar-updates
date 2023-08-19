@@ -1,4 +1,4 @@
-# stellar-updates
+# stellar/soroban-updates
 This repo is for showcasing our progress to Stellar reviewers.
 
 **Weeks 1-2 (10%):** For our first deliverable, we'll establish the smart contract code foundation essential for testing digital 1st blockchain business entities. Within this setup, members will accumulate trust tokens in alignment with their merit. Simultaneously, we'll kickstart the technical documentation process for cap table tokenization.
