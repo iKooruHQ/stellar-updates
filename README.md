@@ -7,7 +7,7 @@ This repo is for showcasing our progress to Stellar/Soroban reviewers.
 
 [https://github.com/iKooruHQ/soroban_business_entity_dao readme](https://github.com/iKooruHQ/soroban_business_entity_dao/blob/main/readme.md)
 
-# 🚧 Under Construction 🚧
+🚧 Under Construction 🚧
 [https://github.com/iKooruHQ/soroban_business_entity_dao.git](https://github.com/iKooruHQ/soroban_business_entity_dao)
 
 
