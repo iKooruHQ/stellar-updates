@@ -5,7 +5,8 @@ This repo is for showcasing our progress to Stellar reviewers.
 
 
 *(Code, README, and demo video shared here) - (Deliverable)* 
-
+[https://github.com/iKooruHQ/soroban_business_entity_dao.git](https://github.com/iKooruHQ/soroban_business_entity_dao)
+[https://github.com/iKooruHQ/soroban_business_entity_dao/blob/main/readme.md](https://github.com/iKooruHQ/soroban_business_entity_dao readme)
 
 **Weeks 3-6 (30%):** Development of Monitoring System. Develop the system for tracking progress towards each milestone. This is crucial for unlocking the cap table, ensuring transparency, and adapting to any changes or recommendations from the legal review.
 
