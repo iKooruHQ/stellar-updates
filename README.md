@@ -11,6 +11,10 @@ This repo is for showcasing our progress to Stellar/Soroban reviewers.
 [https://github.com/iKooruHQ/soroban_business_entity_dao.git](https://github.com/iKooruHQ/soroban_business_entity_dao)
 
 
+🚧 Under Construction 🚧 Tech doc
+
+🚧 Under Construction 🚧 Demo Video
+
 **Weeks 3-6 (30%):** Development of Monitoring System. Develop the system for tracking progress towards each milestone. This is crucial for unlocking the cap table, ensuring transparency, and adapting to any changes or recommendations from the legal review.
 
 
