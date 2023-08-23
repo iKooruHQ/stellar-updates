@@ -24,7 +24,7 @@ This repo is for showcasing our progress to Stellar/Soroban reviewers.
 **Legal Review:** This review evaluates the broader legal landscape of blockchain business entities. It aims to understand and ensure compliance with regulatory standards, especially when utilizing blockchain for online private market investments. The objective is to ascertain that the entire business model and its underlying structure remain legally sound and compliant.
 
 
-*(README, and demo video shared here) - (Deliverable)*
+*(Legal findings shared) - (Deliverable)*
 
 
 **Weeks 7-10 (30%):** Implementation of Milestone Achievement Recording - This involves implementing the system for recording milestone achievements on the blockchain. This step is crucial in unlocking the cap table as it provides a transparent and verifiable record of achievements.
@@ -42,10 +42,10 @@ This repo is for showcasing our progress to Stellar/Soroban reviewers.
 **Smart Contract Legal Review:** Undertake a meticulous legal review of the smart contracts to ensure they're in compliance with relevant regulations.
 
 
-*(README, and demo video shared here) - (Deliverable)*
+*(Legal findings shared) - (Deliverable)*
 
 
 **Professional Smart Contract Audit:** Commission an in-depth audit of the smart contracts to identify and rectify any vulnerabilities, ensuring the safety and robustness of the system.
 
 
-*(README, and demo video shared here)  - (Deliverable)*
+*(Audit findings shared)  - (Deliverable)*
