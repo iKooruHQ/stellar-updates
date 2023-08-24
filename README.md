@@ -11,7 +11,7 @@ This repo is for showcasing our progress to Stellar/Soroban reviewers.
 [https://github.com/iKooruHQ/soroban_business_entity_dao.git](https://github.com/iKooruHQ/soroban_business_entity_dao)
 
 
-🚧 Version 1.0 🚧  [A Technical Guide to Modernizing Cap Tables with AI and Soroban Smart Contracts](https://drive.google.com/file/d/1pw5RFrRoYUxSlcDgRWyegxZsruS7HT0x/view?usp=sharing)
+🚧 Version 1.0 🚧  [A Technical Guide to Modernizing Cap Tables with AI and Soroban Smart Contracts](https://drive.google.com/file/d/1mfguP9-ICmn-YNSKXYpzYoqiUlUljywC/view?usp=sharing)
 
 🚧 Under Construction 🚧 Demo Video
 
